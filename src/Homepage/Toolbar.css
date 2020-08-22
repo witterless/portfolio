@@ -1,0 +1,31 @@
+.pure-menu {
+    background-color: #323F4D;
+}
+
+.menu-left h1 {
+    color: #95BCE6;
+}
+
+.menu-left h3 {
+    color: #C1DFFF;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.menu-right ul li a {
+    color: #C1DFFF;
+}
+
+.menu-right {
+    padding: 30px;
+    margin: auto;
+    text-align: center;
+}
+
+.menu-right ul li :hover {
+    background-color: #647D99;
+}
+
+
+
+
